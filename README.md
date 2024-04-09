@@ -9,12 +9,9 @@ https://github.com/settings/tokens
 ## Installation
 Gitside-man can be installed by downloading the zip file [here](https://github.com/rsolutions-canada/gitside-man/archive/master.zip) or by cloning the repository:  
 
-`git clone https://<github_apikey>@github.com/rsolutions-canada/gitside-man.git`  
+`git clone https://github.com/TaranYourAss/gitside-man.git`    
 
-Further information on cloning private Github repositories:  
-https://stackoverflow.com/a/70320541  
-
-Gitside-man works with [Python](http://www.python.org/download/) **3** on any platform.  
+Gitside-man works with [Python](http://www.python.org/download/) **3**
 
 ## Features
 - Search Github for keywords belonging to confidential documents and discover leaks.
