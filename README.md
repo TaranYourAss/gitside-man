@@ -1,4 +1,5 @@
-                                                                                                      
+```
+                                                                                                             
               _/    _/                _/        _/                                                           
      _/_/_/      _/_/_/_/    _/_/_/        _/_/_/    _/_/                _/_/_/  _/_/      _/_/_/  _/_/_/    
   _/    _/  _/    _/      _/_/      _/  _/    _/  _/_/_/_/  _/_/_/_/_/  _/    _/    _/  _/    _/  _/    _/   
@@ -6,6 +7,7 @@
   _/_/_/  _/      _/_/  _/_/_/    _/    _/_/_/    _/_/_/              _/    _/    _/    _/_/_/  _/    _/     
      _/                                                                                                      
 _/_/                                                                                                         
+```
 Very simple OSINT Tool to search through all public Github repositories, enabling you to discover Github repositories that may contain confidential information.  
 
 Make sure to get/create your API key from here:  
