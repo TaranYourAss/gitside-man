@@ -18,6 +18,10 @@ Gitside-man works with [Python](http://www.python.org/download/) **3**
 - [TODO] Perform checks on discovered repositories to confirm or deny that they belong to a target organization.
 - [TODO] Log all results for further investigation and reporting.
 - [TODO] Ability to automatically find where the keyword matched within the found files
+- [TODO] Display Description of found repositories
+- [TODO] Add built-in pre-fabbed queries to look for sensitive info
+         - API keys in found repos
+         -   
   
 ## Usage
 To perform a search on Github for an internal keyword, type:
