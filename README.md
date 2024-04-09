@@ -17,6 +17,7 @@ Gitside-man works with [Python](http://www.python.org/download/) **3**
 - Search Github for keywords belonging to confidential documents and discover leaks.
 - [TODO] Perform checks on discovered repositories to confirm or deny that they belong to a target organization.
 - [TODO] Log all results for further investigation and reporting.
+- [TODO] Ability to automatically find where the keyword matched within the found files
   
 ## Usage
 To perform a search on Github for an internal keyword, type:
