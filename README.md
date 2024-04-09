@@ -7,7 +7,7 @@ https://github.com/settings/tokens
 > You do not need to add any special permissions to the API key. The Github API just requires you to authenticate to enable searching on repos.  
 
 ## Installation
-Gitside-man can be installed by downloading the zip file [here](https://github.com/rsolutions-canada/gitside-man/archive/master.zip) or by cloning the repository:  
+Gitside-man can be installed by downloading the zip file [here](https://github.com/TaranYourAss/gitside-man/archive/master.zip) or by cloning the repository:  
 
 `git clone https://github.com/TaranYourAss/gitside-man.git`    
 
