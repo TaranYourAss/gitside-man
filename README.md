@@ -11,8 +11,6 @@ Gitside-man can be installed by downloading the zip file [here](https://github.c
 
 `git clone https://github.com/TaranYourAss/gitside-man.git`    
 
-Gitside-man works with [Python](http://www.python.org/download/) **3**
-
 ## Features
 - Search Github for keywords belonging to confidential documents and discover leaks.
 - [TODO] Perform checks on discovered repositories to confirm or deny that they belong to a target organization.
